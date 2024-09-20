@@ -6,7 +6,7 @@
     "dev": "next dev",
     "generate-typed-abi": "wagmi generate",
     "build": "next build",
-    "start": "next start",
+    "start": "next start"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
@@ -23,7 +23,6 @@
     "wagmi": "2.12.10"
   },
   "devDependencies": {
-    "@biomejs/biome": "1.8.3",
     "@types/node": "^18.19.3",
     "@types/react": "^18.3.0",
     "@wagmi/cli": "^2.1.15",
